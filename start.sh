@@ -1,7 +1,9 @@
 # 1. env
 choco install -y nodejs.install python2 jdk8 yarn
+
 # 2. react-native-cli
 npm install -g react-native-cli
+
 # 3. Android Studio
 # https://developer.android.com/studio/index.html
 
